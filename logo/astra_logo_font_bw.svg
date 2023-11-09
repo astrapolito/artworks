@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg751"
+   width="2400"
+   height="853.33331"
+   viewBox="0 0 2400 853.33331"
+   sodipodi:docname="astra logo font bw.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="astra logo black.png"
+   inkscape:export-xdpi="112.50005"
+   inkscape:export-ydpi="112.50005"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs755">
+    <rect
+       x="-903.43579"
+       y="595.151"
+       width="1645.4265"
+       height="674.63885"
+       id="rect2585" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath859">
+      <g
+         id="g865">
+        <g
+           id="g863"
+           transform="translate(-201.17308,151.45557)">
+          <rect
+             height="472"
+             width="472"
+             x="391.83975"
+             y="39.211086"
+             id="rect861"
+             style="stroke-width:1.48849" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath859-3">
+      <g
+         id="g865-6">
+        <g
+           id="g863-7"
+           transform="translate(-201.17308,151.45557)">
+          <rect
+             height="472"
+             width="472"
+             x="391.83975"
+             y="39.211086"
+             id="rect861-5"
+             style="stroke-width:1.48849" />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview753"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.23325825"
+     inkscape:cx="1136.0799"
+     inkscape:cy="456.5755"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g757" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g757">
+    <path
+       id="rect6345"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:17.5183;stroke-linecap:square"
+       d="M -1.1802978e-5,1.5293824e-4 H 2400 V 853.33316 H -1.1802978e-5 Z" />
+    <g
+       id="g2694"
+       transform="translate(-23.120411,6.3649414e-4)">
+      <path
+         id="rect6345-5"
+         style="fill:#000000;stroke-width:10.4459;stroke-linecap:square"
+         d="m 461.7207,190.66602 c 13.0987,49.7155 37.3614,92.43603 73.38282,128.30859 35.12831,35.426 79.18663,60.58109 127.5625,72.93555 C 653.73508,335.94301 629.02645,288.75764 587.64648,250.65234 552.07163,217.90562 510.09656,198.10846 461.7207,190.66602 Z m -69.95898,0.15039 c -104.9384,14.73602 -187.25277,99.87657 -201.0957,201.09375 56.41369,-15.48028 103.74863,-44.8025 141.70507,-88.71289 28.28128,-32.30019 48.52467,-70.85206 59.39063,-112.38086 z m 34.83008,58.19921 C 390.42154,331.03131 331.18016,390.27269 249.01562,426.5918 331.18016,462.76205 390.42113,522.00538 426.74023,604.16992 462.76164,522.15423 521.85582,463.05975 603.72266,426.5918 521.70697,390.42154 462.6132,331.18016 426.5918,249.01562 Z M 190.66602,461.57227 c 13.84293,103.7476 100.02696,187.84661 201.24414,200.94531 -14.14064,-52.09708 -40.48713,-96.75151 -79.78321,-133.66602 -34.23522,-32.30019 -75.9132,-55.52024 -121.46093,-67.27929 z m 471.70312,0.14843 c -52.99017,14.14064 -98.09094,41.08232 -135.1543,81.27149 -31.40708,33.78867 -53.88393,75.01919 -65.49414,119.67383 C 574.10154,645.8461 650.31239,554.60235 662.36914,461.7207 Z" />
+      <text
+         xml:space="preserve"
+         id="text2583"
+         style="font-size:31.7673px;line-height:0.7;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect2585);fill:#000000;fill-opacity:1;stroke-width:3.77953;stroke-linecap:square"
+         transform="matrix(14.270439,0,0,14.270439,13657.892,-8206.365)"
+         x="-52.03125"
+         y="0"><tspan
+           x="-903.43555"
+           y="616.30001"
+           id="tspan2732"><tspan
+             style="font-weight:500;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Medium';text-align:start;text-anchor:start"
+             id="tspan2730">ASTRA</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
